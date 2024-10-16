@@ -7,12 +7,15 @@ font-size: 1em;
 color:#444;
 font-weight:400;
 }
+div{
+    text-align:center;
+}
 /* h1 styles */
 h1{
     color:#33485e;
 font-size:3em;
 text-transform:uppercase;
-text-align:center
+text-align:center;
 }
 
 /* strong styles */

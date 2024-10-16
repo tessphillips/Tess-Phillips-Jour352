@@ -1,0 +1,83 @@
+Jour652: Midterm
+Part 1: Q&A
+
+Questions
+1. In the sentence below, put in the necessary code that would allow
+users to click on the word Google and open Google's homepage in a new
+browser:
+Google is the best search engine in the world.
+
+<a href="http://www.google.com/search?q=">Google</a>
+
+2. Describe the purpose of a DIV tag.
+
+The purpose of a DIV tag is to group together HTML elements so that you can target them and stylize them with CSS.
+
+3. Write out the basic structure of an HTML page, putting the basic tags
+in the correct position. (Note: you don't need to connect it to a
+stylesheet or include DIV tags or anything like that).
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+
+<link rel="stylesheet" type="text/css"
+href="stylesheet"></div>
+</html>
+    </head>
+    
+4. There are two main "areas" or "sections" in the basic structure of an
+HTML page. In which area would you put a link to a stylesheet?
+
+You should put the link to the stylesheet in the <head></head> section.
+
+5. In which main "area" or "section" of an HTML page would you put text,
+images or DIV tags?
+
+You should put text, images, and DIV tags in the <body></body> section. 
+
+6. In the space below, put one DIV tag with a class of graphicbox and a
+second DIV tag with an ID of name.
+
+<div>
+<p class="graphicbox"
+</div>
+<div>
+    <p id= "name">
+</div>
+
+7. In the space below, put one DIV tag with an ID of apples and a class
+of fruit.
+
+<div>
+<p id= "apples">
+    <p class="fruit">
+</div>
+
+8. In the space below, write the correct CSS code to target a DIV with a
+class of fruit. Make the color of the text black (#000000).
+
+.fruit{
+    color:#000000;
+}
+
+9. What tag would we use to include an image on an HTML page? Just give
+me the name of the tag, you don't have to write out all the code.
+
+An <img> tag would be used to insert an image.
+
+10. Why do we use media queries?
+
+Media queries are used to allow us to change the style of an element at different screen types and sizes.
+
+11. What is the main difference between a serif and a sans-serif font?
+
+Serif fonts have decorative embelishments on the ends of the letters, whereas sans-serif fonts do not. 
+
+12. Which of the following is a hexadecimal code?
+#FFCC33 - this one 
+123,543,242
+101010101
+- 213
+
