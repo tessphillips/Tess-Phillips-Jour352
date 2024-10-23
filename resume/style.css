@@ -7,6 +7,7 @@ font-size: 1em;
 color:#444;
 font-weight:400;
 }
+
 div{
     text-align:center;
 }
@@ -36,17 +37,27 @@ h2{
 h3{
     font-weight: 600;
     font-size:1.5em;
+    color:black;
 }
 /* h4 styles */
 
 h4{
     font-weight: 400;
-    font-size:1.5em;
+    font-size: 1em;
+    color:black;
 }
 /* h5 styles */
 
 h5{
     font-weight: 400;
-    font-size:1em;
-    text-transform:italics;
+    font-size:0.75em;
+    font-style:italic;
+    color:black;
+}
+p{
+    color:black;
+}
+
+li{
+    color:black;
 }
