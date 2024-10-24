@@ -18,6 +18,7 @@ body {
     font-size:3em;
     text-transform:uppercase;
     text-align:center;
+    font-family: "Playwrite GB S", cursive;
     }
     
     /* strong styles */
@@ -32,7 +33,7 @@ body {
         text-transform:uppercase;
         background-color: hsl(292, 95%, 69%);
         color: #fff;
-    }
+        font-family: "Playwrite GB S", cursive;    }
     /* h3 styles */
     
     h3{
@@ -62,4 +63,8 @@ body {
     li{
         color:black;
     }
-    
+
+
+    .masthead {
+        width: 100%;
+    }
