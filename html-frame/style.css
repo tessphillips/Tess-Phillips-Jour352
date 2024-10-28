@@ -1,0 +1,43 @@
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+
+}
+
+h2{
+    text-align: left;
+    font-family: "Playfair Display", serif;
+
+}
+
+h3{
+    text-align: center;
+    font-family: "Playfair Display", serif;
+
+}
+
+p{
+    text-align: left;
+    font-family: "Playfair Display", serif;
+
+}
+
+figcaption{
+    text-align: center;
+    color: rgb(117, 117, 117);
+}
+
+h4{
+    text-align: center;
+    font-size: 1em;
+    font-family: "Playfair Display", serif;
+
+}
