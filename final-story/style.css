@@ -24,10 +24,18 @@ font-family: "Playfair Display", serif;
   }
   p{
     font-family: "Playfair Display", serif;
+    font-size: 1.5em;
+    margin-left: 50px;
+    margin-right: 50px;
     
+  }
+p2{
+    font-family: "Playfair Display", serif;
+    font-size: 1em;
   }
 figcaption{
     font-family: "Playfair Display", serif;
+    font-size: 1em;
 }
 
 h3{
@@ -37,4 +45,49 @@ h3{
     color: lightcoral;
     font-size: 3em;
 
+}
+h4{
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: black;
+  font-size: 2em;
+}
+h5{
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: black;
+  font-size: 1em;
+}
+.younger{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.AG{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.sweeney{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.chart{
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+.pie{
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 50%;
 }
