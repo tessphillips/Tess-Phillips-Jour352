@@ -1,0 +1,40 @@
+.masthead{
+    width: 100%;
+}
+.bodystart{
+    width: 100%;
+}
+
+h2{
+text-align: center;
+font-size: 8em;
+color: burlywood;
+font-family: "Playfair Display", serif;
+}
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  h1{
+    font-family: "Playfair Display", serif;
+    text-align: center;
+  }
+  p{
+    font-family: "Playfair Display", serif;
+    
+  }
+figcaption{
+    font-family: "Playfair Display", serif;
+}
+
+h3{
+    font-family: "Playfair Display", serif;
+    text-align: left;
+    padding-left: 25px;
+    color: lightcoral;
+    font-size: 3em;
+
+}
